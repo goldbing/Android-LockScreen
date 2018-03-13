@@ -22,6 +22,7 @@ import me.geed.util.Validator;
 public class LauncherHomeActivity extends Activity {
     private String mPackageName;
     private String mClassName;
+    private String mBook;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
